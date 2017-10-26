@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/kursy.vdcom.net.ua/webstat"
+AuthUserFile /var/www/dyachyk15gmail/data/etc/66191745.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

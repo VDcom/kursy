@@ -1,0 +1,466 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201710 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.kursy.vdcom.net.ua.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1998                
+POS_TIME 2684                
+POS_VISITOR 8922                
+POS_DAY 12438               
+POS_DOMAIN 3524                
+POS_LOGIN 3759                
+POS_ROBOT 3914                
+POS_WORMS 4516                
+POS_EMAILSENDER 4647                
+POS_EMAILRECEIVER 4790                
+POS_SESSION 13148               
+POS_SIDER 13355               
+POS_FILETYPES 4925                
+POS_DOWNLOADS 5262                
+POS_OS 5388                
+POS_BROWSER 5522                
+POS_SCREENSIZE 6241                
+POS_UNKNOWNREFERER 6315                
+POS_UNKNOWNREFERERBROWSER 6799                
+POS_ORIGIN 6881                
+POS_SEREFERRALS 7025                
+POS_PAGEREFS 7193                
+POS_SEARCHWORDS 7626                
+POS_KEYWORDS 7778                
+POS_MISC 2348                
+POS_ERRORS 7837                
+POS_CLUSTER 3615                
+POS_SIDER_404 7938                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20171026022440 1254 342656 10808407495032
+FirstTime 20171001021542
+LastTime 20171025235109
+LastUpdate 20171026052211 1254 0 1254 0 0
+TotalVisits 137                 
+TotalUnique 82                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 84                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 8 174 10279050 6 10 248991
+1 0 0 0 4 8 363850
+2 2 86 1884732 7 33 781079
+3 0 0 0 5 54 1148216
+4 2 2 83189 7 12 545720
+5 11 172 3495087 12 35 937048
+6 9 193 5250832 4 54 1236914
+7 31 540 24734678 8 76 1896983
+8 17 266 6537528 8 67 1449220
+9 46 858 31879998 5 63 1345207
+10 102 1775 57428062 1 4 91714
+11 240 3678 113355238 8 38 1296265
+12 111 2049 62470393 2 7 251022
+13 37 439 16241562 6 24 747902
+14 28 453 33214944 9 27 999269
+15 29 503 21029359 8 25 716050
+16 79 609 30530048 8 30 648185
+17 17 271 8861802 8 17 376015
+18 120 912 36569021 6 15 276681
+19 24 290 6285212 2 18 463024
+20 66 610 32362386 12 38 951689
+21 34 550 30016611 8 10 574447
+22 35 701 38486650 1 17 381505
+23 37 470 18446777 17 136 3465678
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 1085 15601 478602920
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+bot[\s_+:,\.\;\/\\-] 458 11782952 20171025033925 14
+googlebot 89 3632406 20171024185841 12
+spider 51 1009399 20171014072512 1
+favicon 43 1737650 20171025182126 0
+yandex 40 1025998 20171026022440 22
+baiduspider 32 1501830 20171024184534 0
+unknown 10 2690 20171021190725 10
+facebook 4 38908 20171020201229 0
+exabot 2 81428 20171020202642 1
+ia_archiver 2 81428 20171023022521 1
+checker 2 81428 20171023061021 1
+robot 1 8241 20171014202956 0
+crawl 1 81718 20171009073056 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+eot 3 74218 0 0
+css 2940 94882811 0 0
+png 7866 70841073 0 0
+woff 24 678132 0 0
+woff2 437 9721586 0 0
+map 5 14520 0 0
+php 105 995207 0 0
+mp4 3 64647660 0 0
+html 462 37067240 0 0
+js 2573 74189114 0 0
+jpg 1132 70613094 0 0
+0 9 696411 0 0
+Unknown 6 149744 0 0
+doc 2 80376 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/robots.txt 62 0 16678
+/dogovor.doc 6 0 241128
+/video/bg_2.mp4 3 89 115905916
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 8
+linuxandroid 920
+winlong 2
+winnt 1461
+winvista 113
+linux 10202
+win7 1351
+macosx 1632
+Unknown 9
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 37
+firefox57.0 92
+chrome52.0.2743.116 90
+safari11.0 174
+chrome59.0.3071.86 4
+chrome56.0.2924.92 88
+android 1
+firefox52.0 1
+chrome28.0.1500.94 84
+chrome56.0.2924.87 262
+firefox54.0 6
+iphone 85
+chrome61.0.3163.100 11398
+msie7.0 1
+chrome62.0.3202.62 567
+chrome61.0.3163.91 89
+chrome59.0.3071.115 139
+firefox55.0 91
+safari10.0 89
+chrome41.0.2272.118 340
+safari10.0.3 1
+firefox46.0 4
+chrome51.0.2704.79 1
+chrome59.0.3071.125 88
+firefox56.0 300
+chrome49.0.2623.75 1
+chrome38.0.2125.102 84
+chrome60.0.3112.113 285
+safari9.0 333
+mozilla 187
+netscape5.0 6
+msie10.0 26
+chrome61.0.3116.0 24
+firefox3.6.3 1
+chrome60.0.3112.90 267
+chrome11.0.696.71 1
+chrome61.0.3163.98 396
+safari 84
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_(compatible;_Baiduspider/2.0;__http://www.baidu.com/search/spider.html) 20171019185846
+Mozilla/5.0_(compatible;_MegaIndexAuditBot/1.1;__http://audit.megaindex.ru/) 20171014120827
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20171020042731
+Mozilla/5.0_(compatible;_ips-agent) 20171015024100
+Mozilla/5.0_(compatible;_Qwantify/2.4w;__https://www.qwant.com/)/2.4w 20171007191857
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 416 456
+From1 1 1
+From2 61 61
+From3 24 24
+From4 583 15148
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 58 58
+yandex 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+http://vdcom.net.ua/kursyi-po-sozdaniyu-saytov-uroven-1-boot-camp/ 8 8
+http://vdcom.net.ua/kursyi-prodvizhenie-saytov-v-poiskovikah/ 7 7
+http://vdcom.net.ua 3 3
+http://vdcom.net.ua/kursyi-po-seo-optimizatsii-i-prodvizheniyu/ 3 3
+http://vdcom.net.ua/tsenyi/ 2 2
+http://vdcom.net.ua 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 2 105095
+404 57 21503
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 20
+/apple-touch-icon-precomposed.png 1 -
+/kursy-web-programmirovaniya-s.jpg 1 http://kursy.vdcom.net.ua/css/style.css
+/www.vdcom.net.ua 1 -
+/apple-touch-icon.png 1 -
+/policy.html 1 -
+/%12+380936737272 12 -
+/js/jquery.fullpage.min.js.map 1 -
+/forum/index.php/board,31.0.html 1 -
+/kursy-web-programmirovaniya-.jpg 1 http://kursy.vdcom.net.ua/css/style.css
+/google2d9938cd3822a6a1.html 1 -
+/%12+380964004010 12 -
+/seo-lessons 1 -
+/index.html 1 -
+/seo-lesson.php 1 -
+/seo-lesson 1 -
+/index 1 -
+/js/fancybox/'+g+' 1 -
+/kursy-web-programmirovaniya-se.jpg 1 http://kursy.vdcom.net.ua/css/style.css
+/anechka.jpg 16 -
+/js/jquery.fullPage.min.js 1 http://kursy.vdcom.net.ua/lesson-1.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 84
+188.163.31.245 502 7496 202310778 20171025065405
+78.137.4.186 243 2725 75989053 20171025193859
+91.244.37.55 44 422 13108039 20171025235109
+185.137.18.47 15 111 850477 20171025163112
+37.73.147.193 10 24 875068 20171018205649
+109.108.81.42 10 179 8547115 20171025143846
+37.73.195.193 8 107 4497136 20171014140538
+66.249.93.20 8 124 2071817 20171018141141
+66.102.8.43 8 139 4815948 20171020062839
+193.192.171.10 8 174 6784706 20171019153813
+198.46.226.125 1 1 154 20171024180201
+188.166.15.95 1 3 81159 20171024104420
+104.45.18.178 1 3 102352 20171004133348
+188.163.30.242 4 86 3341745 20171020103137
+69.58.178.56 1 1 81145 20171015024100
+159.203.112.216 2 2 165792 20171005134232
+185.137.18.246 1 8 5122223 20171023163744
+46.211.101.183 4 86 1646671 20171013220122
+95.220.72.9 1 1 81159 20171020052038
+54.185.242.134 1 1 82898 20171001134645
+194.187.170.122 1 1 82898 20171001042937
+138.197.73.96 2 2 162318 20171017231854
+78.137.61.130 5 90 3542774 20171012201927
+95.132.69.120 4 58 1112876 20171025185020
+138.197.104.3 2 2 163436 20171011105308
+66.249.88.16 5 95 2199608 20171020052331
+176.9.62.226 1 1 81159 20171019073613
+66.249.88.10 2 80 1261205 20171019001837
+193.53.83.35 4 87 3289259 20171024143920
+212.55.89.63 4 93 3537010 20171005223404
+104.144.21.247 1 1 154 20171024180153
+83.137.1.202 4 87 3392353 20171019232832
+45.55.254.180 2 2 165796 20171002160732
+46.133.110.123 4 89 5090499 20171015094549
+45.55.255.72 2 2 163436 20171008110512
+37.73.221.145 4 86 4952609 20171001183808
+206.123.95.204 1 1 154 20171024180202
+66.249.89.41 0 20 566270 
+178.216.16.11 4 88 3451329 20171009072533
+23.101.61.176 1 3 101400 20171025140831
+188.166.86.10 1 1 81159 20171020120754
+188.166.72.133 7 91 1697049 20171024181535
+91.221.126.140 4 4 324636 20171022052856
+78.137.53.46 4 89 5139888 20171009000751
+23.250.105.24 1 1 154 20171024180202
+66.249.93.22 5 115 2388155 20171014190109
+88.99.127.59 4 87 3289259 20171025141907
+66.249.93.21 4 102 2318257 20171014190109
+37.229.192.83 4 89 5083062 20171023224306
+109.122.12.222 5 88 1844488 20171011204218
+94.178.0.211 4 87 5038037 20171021214603
+109.227.121.73 4 88 3451329 20171010121222
+80.77.46.89 4 88 5095303 20171025205743
+212.55.82.250 4 87 3392353 20171019115224
+46.188.71.126 1 85 1803587 20171001021542
+188.166.7.226 1 1 81718 20171011204157
+78.111.189.125 1 50 1022431 20171004214527
+138.197.111.184 2 2 162290 20171014153444
+78.137.63.36 4 89 5139888 20171006212602
+91.235.112.130 4 87 1713381 20171016170935
+78.137.7.4 4 89 5141068 20171002142644
+46.61.8.92 0 1 25452 
+176.67.0.72 4 87 3401901 20171003092347
+66.249.88.13 5 80 1512653 20171020052331
+66.249.89.43 2 5 119512 20171020042731
+109.227.89.40 4 88 5080923 20171021201533
+91.244.10.10 7 130 4237011 20171004154005
+77.121.193.175 4 88 3400040 20171019115347
+109.227.100.157 4 87 3406744 20171025214348
+78.137.49.200 4 92 3579385 20171002103730
+185.137.18.187 4 89 1770305 20171020073850
+46.200.170.181 4 88 3451329 20171013110933
+193.0.240.44 4 87 3400721 20171011155313
+138.197.158.110 4 89 3508510 20171023092359
+37.73.193.189 4 10 253242 20171015075619
+194.187.170.126 1 1 81718 20171007191857
+195.95.232.197 4 88 3451329 20171009123132
+66.102.8.45 2 82 1925656 20171020052329
+109.227.77.162 4 88 3451329 20171006113655
+188.32.176.116 4 22 694637 20171014095449
+77.121.199.179 4 85 3308661 20171025220550
+66.102.8.41 6 126 3558554 20171020062839
+78.137.2.162 4 88 3451329 20171012153104
+97.45.66.11 4 88 3452509 20171002184403
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 25
+20171001 7 170 10245224 4
+20171002 18 354 24234062 5
+20171003 4 85 5155997 1
+20171004 5 95 1909285 3
+20171005 35 635 20190639 3
+20171006 8 174 13656894 2
+20171007 1 1 81718 1
+20171008 2 2 163436 1
+20171009 12 261 18796782 3
+20171010 4 87 5139888 1
+20171011 12 176 7244459 4
+20171012 9 176 10371221 2
+20171013 36 634 23716232 8
+20171014 487 7501 202768264 18
+20171015 41 205 12816672 6
+20171016 5 93 5106762 2
+20171017 19 245 6070494 4
+20171018 32 452 21705246 11
+20171019 29 537 24764820 10
+20171020 62 1162 42203934 15
+20171021 9 175 17031613 3
+20171022 2 2 162318 1
+20171023 9 178 23737732 3
+20171024 128 980 38232259 13
+20171025 109 1221 53937208 13
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 4
+5mn-15mn 6
+0s-30s 113
+15mn-30mn 3
+30s-2mn 5
+2mn-5mn 3
+30mn-1h 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 22
+/ 461 37066949 109 49
+/fonts/geometria-heavy-webfont.woff2 157 3453686 2 11
+/fonts/geometria-light-webfont.woff2 155 3461150 0 33
+/fonts/pfdintextcondpro-xblack-webfont.woff2 125 2806750 0 11
+/lesson-7.php 51 336931 6 2
+/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.woff2%3Fv=4.7.0 40 3095160 0 2
+/seo-lessons.php 30 251480 7 3
+/lesson-1.php 19 223487 1 5
+/fonts/geometria-light-webfont.woff 9 254412 4 5
+/fonts/geometria-heavy-webfont.woff 9 252792 3 1
+/fonts/pfdintextcondpro-xblack-webfont.eot 1 25190 0 1
+/googlebca417e9cf7874ca.html 1 291 1 1
+/fonts/geometria-light-webfont.eot 1 24663 0 0
+/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.woff%3Fv=4.7.0 3 294729 0 0
+/fonts/geometria-light-webfont.eot%3F 2 49762 0 1
+/index.php 2 163701 0 0
+/fonts/pfdintextcondpro-xblack-webfont.woff 6 170928 2 5
+/fonts/pfdintextcondpro-xblack-webfont.eot%3F 2 50816 0 2
+/lesson-2.php 3 19608 1 2
+/fonts/geometria-heavy-webfont.eot%3F 2 49166 1 1
+/fonts/geometria-heavy-webfont.eot 1 24365 0 0
+/css/lesson.css.map 5 14520 0 2
+END_SIDER

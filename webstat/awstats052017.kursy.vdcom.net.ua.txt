@@ -1,0 +1,408 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201705 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.kursy.vdcom.net.ua.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1998                
+POS_TIME 2679                
+POS_VISITOR 10340               
+POS_DAY 11824               
+POS_DOMAIN 3463                
+POS_LOGIN 3698                
+POS_ROBOT 3853                
+POS_WORMS 4055                
+POS_EMAILSENDER 4186                
+POS_EMAILRECEIVER 4329                
+POS_SESSION 12416               
+POS_SIDER 12622               
+POS_FILETYPES 4464                
+POS_DOWNLOADS 4755                
+POS_OS 4880                
+POS_BROWSER 5006                
+POS_SCREENSIZE 5415                
+POS_UNKNOWNREFERER 5489                
+POS_UNKNOWNREFERERBROWSER 5746                
+POS_ORIGIN 5884                
+POS_SEREFERRALS 6024                
+POS_PAGEREFS 6179                
+POS_SEARCHWORDS 6432                
+POS_KEYWORDS 6584                
+POS_MISC 2343                
+POS_ERRORS 6643                
+POS_CLUSTER 3554                
+POS_SIDER_404 6757                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170601040605 186 49379 9404421293999
+FirstTime 20170501091818
+LastTime 20170531210842
+LastUpdate 20170601053953 186 0 185 0 0
+TotalVisits 59                  
+TotalUnique 33                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 34                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1 1 407
+1 0 0 0 0 1 9727
+2 1 85 1734626 1 3 13072
+3 0 0 0 3 5 40214
+4 0 0 0 4 5 39039
+5 3 113 2134754 7 11 43731
+6 1 4 267520 2 2 26850
+7 28 417 12604897 0 149 59468
+8 293 5428 121273330 1 34 22940
+9 109 2159 44213742 8 23 79097
+10 37 505 9431722 7 34 85335
+11 71 1306 23147881 3 22 130451
+12 32 635 10673062 0 9 12520
+13 35 322 9058073 7 14 17786
+14 48 991 15339390 5 22 29169
+15 104 1692 29589348 1 43 15423
+16 225 2818 52962082 5 33 37540
+17 28 609 15005158 3 15 44174
+18 33 641 42540458 6 9 28585
+19 45 650 15980996 0 7 132150
+20 39 613 19123616 5 12 4108
+21 95 1801 33939906 4 30 142109
+22 22 372 6665505 3 10 70905
+23 5 105 1983341 7 12 49629
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 1254 21266 438701753
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+yandex 93 764668 20170531214220 35
+favicon 10 118021 20170520112716 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 2935 92002470 0 0
+png 11949 106957896 0 0
+ttf 3 199852 0 0
+woff 7 198176 0 0
+woff2 588 12888926 0 0
+mp4 7 32344772 0 0
+html 612 8314431 0 0
+js 3414 88854281 0 0
+jpg 1704 93932815 0 0
+doc 3 120564 0 0
+Unknown 10 390578 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/robots.txt 35 0 10220
+/dogovor.doc 5 0 225516
+/video/bg_2.mp4 2 24 32344772
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 8
+linuxandroid 1484
+winxp 90
+java 2
+winnt 1678
+linux 16700
+win7 491
+macosx 836
+Unknown 9
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 20
+msie6.0 22
+android 314
+chrome58.0.3029.83 963
+chrome58.0.3029.81 16933
+chrome55.0.2883.91 143
+nsplayer 1
+chrome56.0.2924.87 92
+chrome31.0.1650.63 85
+chrome58.0.3029.110 1676
+msie8.0 67
+chrome45.0.2454.94 97
+safari9.0 439
+chrome45.0.2454.101 29
+mozilla 3
+netscape5.0 5
+chrome58.0.3029.96 90
+msie9.0 137
+chrome49.0.2623.112 1
+Unknown 2
+chrome57.0.2987.132 191
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0 20170530105041
+NSPlayer/12.00.9651.0000_WMFSDK/12.00.9651.0000 20170523182604
+Mozilla/5.0_(compatible;_YandexBot/3.0;__http://yandex.com/bots) 20170523182801
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Apache-HttpClient/UNAVAILABLE_(java_1.4) 20170530105058
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 442 480
+From1 0 0
+From2 8 8
+From3 3 3
+From4 801 20799
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+yandex 8 8
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+https://www.yandex.ua/clck/jsredir 1 1
+http://yandex.ua/clck/jsredir 1 1
+http://away.vk.com/away.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+403 12 5780
+206 2 95881
+404 373 150079
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 53
+/js/hash.js 7 http://kursy.vdcom.net.ua/
+/forum/index.php/board,7.0.html 2 -
+/images/content/cl-18.jpg 4 http://kursy.vdcom.net.ua/java.html
+/forum/index.php/board,30.0.html 2 -
+/images/content/reviews/rew-6.jpg 4 http://kursy.vdcom.net.ua/java.html
+/forum/index.php/board,29.0.html 2 -
+/images/bg/qa-img-title-22.png 1 http://kursy.vdcom.net.ua/angliyskiy.html
+/images/content/reviews/rew-10.jpg 4 http://kursy.vdcom.net.ua/java.html
+/images/content/cl-1.jpg 4 http://kursy.vdcom.net.ua/java.html
+/images/content/reviews/rew-5.jpg 4 http://kursy.vdcom.net.ua/java.html
+/images/content/cl-2.jpg 4 http://kursy.vdcom.net.ua/java.html
+/oferta.pdf 5 http://kursy.vdcom.net.ua/oferta.pdf
+/images/content/cl-15.jpg 4 http://kursy.vdcom.net.ua/java.html
+/images/content/reviews/rew-11.jpg 4 http://kursy.vdcom.net.ua/java.html
+/css/anechka.jpg 12 -
+/images/content/cl-10.jpg 4 http://kursy.vdcom.net.ua/java.html
+/images/content/reviews/rew-9.jpg 4 http://kursy.vdcom.net.ua/java.html
+/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.eot%3F')%20format('embedded-opentype'),url('../fonts/fontawesome-webfont.woff2%3Fv=4.7.0')%20format('woff2'),url('../fonts/fontawesome-webfont.woff%3Fv=4.7.0')%20format('woff'),url('../fonts/fontawesome-w 4 http://kursy.vdcom.net.ua/
+/images/content/cl-8.jpg 4 http://kursy.vdcom.net.ua/java.html
+/images/content/cl-11-2.jpg 4 http://kursy.vdcom.net.ua/java.html
+/images/content/cl-17.jpg 4 http://kursy.vdcom.net.ua/java.html
+/images/content/reviews/rew-4.jpg 4 http://kursy.vdcom.net.ua/java.html
+/forum/index.php/board,9.0.html 2 -
+/forum/index.php/board,12.0.html 2 -
+/images/content/cl-5.jpg 4 http://kursy.vdcom.net.ua/java.html
+/f 1 http://kursy.vdcom.net.ua/
+/images/content/reviews/rew-1.jpg 4 http://kursy.vdcom.net.ua/java.html
+/images/content/reviews/rew-13.jpg 4 http://kursy.vdcom.net.ua/java.html
+/images/content/reviews/rew-12.jpg 4 http://kursy.vdcom.net.ua/java.html
+/images/content/cl-6.jpg 4 http://kursy.vdcom.net.ua/java.html
+/images/content/cl-3.jpg 4 http://kursy.vdcom.net.ua/java.html
+/www.vdcom.net.ua 2 -
+/images/content/cl-13.jpg 4 http://kursy.vdcom.net.ua/java.html
+/policy.html 4 -
+/forum.html 2 -
+/images/content/reviews/rew-17.jpg 1 http://kursy.vdcom.net.ua/angliyskiy.html
+/images/content/reviews/rew-3.jpg 4 http://kursy.vdcom.net.ua/java.html
+/forum/index.php/board,28.0.html 2 -
+/images/elements/lua-logo.png 4 http://kursy.vdcom.net.ua/java.html
+/images/content/cl-16.jpg 4 http://kursy.vdcom.net.ua/java.html
+/forum/index.php/board,31.0.html 2 -
+/images/content/cl-4.jpg 4 http://kursy.vdcom.net.ua/java.html
+/images/content/reviews/rew-8.jpg 4 http://kursy.vdcom.net.ua/java.html
+/images/content/cl-11-1.jpg 4 http://kursy.vdcom.net.ua/java.html
+/forum/index.php/board,8.0.html 2 -
+/images/content/reviews/rew-2.jpg 4 http://kursy.vdcom.net.ua/java.html
+/video/bg_2.mp4 182 http://kursy.vdcom.net.ua/
+/images/content/cl-12.jpg 4 http://kursy.vdcom.net.ua/java.html
+/images/content/cl-7.jpg 4 http://kursy.vdcom.net.ua/java.html
+/images/content/reviews/rew-7.jpg 4 http://kursy.vdcom.net.ua/java.html
+/images/content/cl-19.jpg 4 http://kursy.vdcom.net.ua/java.html
+/images/content/cl-9.jpg 4 http://kursy.vdcom.net.ua/java.html
+/images/content/reviews/rew-15.jpg 4 http://kursy.vdcom.net.ua/java.html
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 34
+78.137.4.186 1073 18335 360310093 20170530105112
+109.122.49.108 33 709 13262710 20170519221112
+188.163.31.245 23 287 6600600 20170530072148
+78.137.49.101 16 148 2617128 20170518112550
+178.93.245.60 9 177 6794805 20170530193537
+77.121.211.156 7 91 3476199 20170523182602
+109.122.19.188 7 95 1518554 20170516212835
+46.211.115.0 6 90 3345941 20170531203152
+194.44.130.122 6 113 2486075 20170530164015
+109.122.50.204 6 94 1504484 20170516080142
+37.73.221.55 3 3 42210 20170516131034
+176.195.240.233 2 44 822152 20170509214033
+5.164.68.57 1 85 1734626 20170527021859
+85.12.246.142 0 1 25452 
+37.204.105.36 4 22 626085 20170520132015
+37.204.152.178 2 93 1582887 20170505050711
+91.124.3.61 4 89 1520697 20170518232933
+176.193.113.99 1 21 586767 20170525185509
+37.73.245.162 5 87 1583523 20170520161443
+78.137.23.244 4 88 3383548 20170524175158
+176.195.98.248 1 16 462644 20170507234333
+178.140.123.89 1 10 353819 20170524200006
+95.108.141.54 4 93 11629735 20170523182758
+37.147.101.71 1 20 551867 20170505052544
+77.121.207.214 4 88 3383548 20170524135627
+92.113.147.77 1 3 143854 20170531210842
+46.211.104.61 4 8 62503 20170521133837
+37.73.202.50 4 87 3332940 20170531203219
+109.227.99.63 2 8 357255 20170521065041
+46.211.100.118 6 93 1494757 20170518134405
+46.211.104.27 2 4 22728 20170530142338
+91.244.36.133 5 92 1553911 20170519090725
+77.121.201.5 6 94 1504484 20170501120959
+46.211.99.64 1 2 23172 20170519133542
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 21
+20170501 29 387 4853959 5
+20170502 4 4 56280 2
+20170503 14 193 1676909 2
+20170504 5 92 1480687 1
+20170505 3 113 2134754 2
+20170507 1 16 462644 1
+20170509 2 44 822152 1
+20170511 6 96 1620629 1
+20170516 16 192 3065248 3
+20170518 281 3612 66928881 5
+20170519 357 7164 130958608 8
+20170520 196 3228 62244567 7
+20170521 5 12 330023 2
+20170522 267 4910 119480617 2
+20170523 15 266 28424228 3
+20170524 13 270 15560413 4
+20170525 1 21 586767 1
+20170527 1 85 1734626 1
+20170529 0 1 25452 0
+20170530 27 386 14759962 5
+20170531 11 174 10462001 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 8
+5mn-15mn 2
+2mn-5mn 4
+30s-2mn 3
+0s-30s 37
+15mn-30mn 1
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 20
+/ 608 8240743 59 29
+/fonts/geometria-heavy-webfont.woff2 196 4245614 0 1
+/fonts/pfdintextcondpro-xblack-webfont.woff2 196 4333622 0 2
+/fonts/geometria-light-webfont.woff2 196 4309690 0 14
+/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.woff2%3Fv=4.7.0 33 2398749 0 11
+/fonts/pfdintextcondpro-xblack-webfont.woff 3 85464 0 0
+/fonts/pfdintextcondpro-xblack-webfont.eot%3F 3 76224 0 0
+/fonts/geometria-heavy-webfont.eot%3F 3 73749 0 0
+/fonts/geometria-light-webfont.eot%3F 3 74643 0 1
+/fonts/geometria-light-webfont.woff 2 56536 0 1
+/kursu-php.html 1 18157 0 0
+/fonts/pfdintextcondpro-xblack-webfont.ttf 1 54064 0 0
+/fonts/geometria-heavy-webfont.ttf 1 71304 0 0
+/java.html 1 19304 0 0
+/fonts/geometria-light-webfont.ttf 1 74484 0 0
+/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.eot%3F 1 165962 0 0
+/wd.html 1 17403 0 0
+/fonts/font-awesome-4.3.0/fonts/fontawesome-webfont.woff%3Fv=4.7.0 1 98243 0 0
+/angliyskiy.html 1 18824 0 0
+/fonts/geometria-heavy-webfont.woff 2 56176 0 0
+END_SIDER
